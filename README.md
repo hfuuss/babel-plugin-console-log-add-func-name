@@ -13,5 +13,8 @@ function foo() {
   console.log("[foo]", 'bar');
 }
 ```
-# babel 插件
+# babel 插件文档
 https://github.com/jamiebuilds/babel-handbook/blob/master/translations/zh-Hans/plugin-handbook.md
+# 未做的事情
+* 测试 学习jest
+* 目录结构 参考官方插件 学习babel-plugin-import 打包发布 不急
